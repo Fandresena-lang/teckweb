@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #bf230e;
+    overflow: hidden;
+}
+#text{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(0, 255, 229);
+    animation: bounce 4s infinite alternate;
+}
+
+@keyframes bounce{
+    from{
+        transform: translateY(0);
+    }
+    to{
+        transform: translateY(-100px);
+    }
+}
