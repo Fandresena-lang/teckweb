@@ -1,0 +1,99 @@
+dl{
+    background-color: crimson;
+    color: blue;
+}
+#nom{
+    background: linear-gradient(red, gray, blue, green);
+    font-size: 200%;
+    color: darkorange;
+}
+img{
+    width: 1200px;
+    height: 700px;
+}
+body{
+    color: rgb(0, 13, 0);
+    background: bisques;
+}
+#env{
+    color: brown;
+    background-color: chartreuse;
+    font-size: 200%;
+    background: linear-gradient(to right, #0f172a, #2563eb);
+}
+#SECT{
+    color: rgb(1, 19, 1);
+    text-align: right;
+    font-weight: 900;
+    background: linear-gradient(red, gray, blue, green);
+}
+#SEC{
+    color: rgb(1, 19, 1);
+    font-weight: 900;
+    background: linear-gradient(red, gray, blue, green);
+}
+#table{
+    color: rgb(20, 3, 254);
+    font-weight: 900;
+}
+#introduction{
+    color: rgb(67, 63, 5);
+    background: #7c3aed;
+}
+#sous-titre{
+    background-color: chartreuse;
+    color: rgb(5, 57, 20);
+}
+#table_matiere{
+    background-color: aquamarine;
+    color: black;
+}
+#ser{
+    color: rgb(189, 5, 5);
+    background-color: rgb(56, 44, 125);
+}
+#meth{
+color: chartreuse;
+background-color: blueviolet;
+}
+#merci{
+    text-align: right;
+}
+#mention{
+    text-align: center;
+    background: linear-gradient(red, gray, blue, green);
+}
+
+#x{
+    background: linear-gradient(red, gray);
+    color: blue;
+    text-align: center;
+}
+#ligne{
+    background: linear-gradient(to right, orange, red);
+    color: #1e3b26;
+}
+#effet{
+    background-color: chartreuse;
+    color: rgb(5, 57, 20);
+}
+#fact{
+    background: linear-gradient(to right, orange, red);
+    color: #1e3b26;
+}
+#trtd{
+    background: linear-gradient(red, gray);
+    color: blue;
+    text-align: center;
+}
+#lis{
+     background: linear-gradient(red, gray);
+    color: blue;
+    text-align: center;
+}
+#fara{
+    background: (to right, #2563eb, #eb25ca,#1e3b26,red);
+}
+#ab{
+    background: linear-gradient(red, gray, blue, green);
+}
